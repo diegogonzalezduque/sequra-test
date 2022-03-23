@@ -1,0 +1,2 @@
+class WeeklyDisbursement < ApplicationRecord
+end
